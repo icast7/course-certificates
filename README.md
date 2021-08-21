@@ -23,8 +23,6 @@
 - [The Nuts and Bolts of OAuth 2.0 ](https://www.udemy.com/certificate/UC-0ce4b432-6c7b-40e4-85d3-b60f5ae86e0f/)
 
 # Past Certifications
-- Certified PMP -
-Issued by Project Management Institute
 
 - [Certified LabVIEW Architect](https://raw.githubusercontent.com/ikaz/course-certificates/main/pastCertifications/LabVIEWArchitect.pdf)
 Issued by National Instruments
