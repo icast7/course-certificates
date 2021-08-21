@@ -26,7 +26,7 @@
 - Certified PMP -
 Issued by Project Management Institute
 
-- [Certified LabVIEW Architect](./pastCertifications/LabVIEWArchitect.pdf)
+- [Certified LabVIEW Architect](https://raw.githubusercontent.com/ikaz/course-certificates/main/pastCertifications/LabVIEWArchitect.pdf)
 Issued by National Instruments
 
 - Certified TestStand Architect
