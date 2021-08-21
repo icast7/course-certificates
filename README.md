@@ -29,5 +29,5 @@ Issued by Project Management Institute
 - [Certified LabVIEW Architect](https://raw.githubusercontent.com/ikaz/course-certificates/main/pastCertifications/LabVIEWArchitect.pdf)
 Issued by National Instruments
 
-- Certified TestStand Architect
+- [Certified TestStand Architect](https://raw.githubusercontent.com/ikaz/course-certificates/main/pastCertifications/TestStandArchitect.pdf)
 Issued by National Instruments
