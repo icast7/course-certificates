@@ -24,8 +24,8 @@
 
 # Past Certifications
 
-- [Certified LabVIEW Architect](https://raw.githubusercontent.com/ikaz/course-certificates/main/pastCertifications/LabVIEWArchitect.pdf)
+- [Certified LabVIEW Architect](https://raw.githubusercontent.com/ikaz/course-certificates/main/pastCertifications/LabVIEWArchitect.pdf) -
 Issued by National Instruments
 
-- [Certified TestStand Architect](https://raw.githubusercontent.com/ikaz/course-certificates/main/pastCertifications/TestStandArchitect.pdf)
+- [Certified TestStand Architect](https://raw.githubusercontent.com/ikaz/course-certificates/main/pastCertifications/TestStandArchitect.pdf) -
 Issued by National Instruments
