@@ -4,6 +4,8 @@
 ## Issued by Coursera
 - [API Design and Fundamentals of Google Cloud's Apigee API Platform](https://coursera.org/share/87af2fbebfc847e36dd15101ae8d95f6)
 
+- [API Security on Google Cloud's Apigee API Platform](https://coursera.org/share/35e733b5c8bb3bd3c875d7843fc13226)
+
 - [Building Containerized Applications on AWS](https://coursera.org/share/2ccdbfa349a9e12bffc3df10e499d5c7)
 
 - [Building Modern Node.js Applications on AWS](https://coursera.org/share/2a98611e48075b21c86e5351f672888a)
