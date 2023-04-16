@@ -1,6 +1,11 @@
 # Certificates
 
 # Course Certificates
+## Issued by The Linux Foundation
+- [Kubernetes Fundamentals (LFS258)](https://raw.githubusercontent.com/ikaz/course-certificates/main/classCertificates/K8SFundamentals.pdf)
+
+- [Kubernetes for Developers (LFD259)](https://raw.githubusercontent.com/ikaz/course-certificates/main/classCertificates/K8SForDevelopers.pdf)
+
 ## Issued by Coursera
 - [API Design and Fundamentals of Google Cloud's Apigee API Platform](https://coursera.org/share/87af2fbebfc847e36dd15101ae8d95f6)
 
